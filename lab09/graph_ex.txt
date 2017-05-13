@@ -1,0 +1,14 @@
+7 6
+Zero
+One
+Two
+Three
+Four
+Five
+Six
+b 4 Zero Two
+c 8 Zero Three
+d 4 One Four
+f 7 Five Two
+g 5 Three Five
+h 5 Four Six

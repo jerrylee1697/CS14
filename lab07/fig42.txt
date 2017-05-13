@@ -1,0 +1,16 @@
+s A
+B A
+C A
+D A
+H D
+E A
+F A
+K F
+L F
+M F
+G A
+I E
+J E
+P J
+Q J
+N G

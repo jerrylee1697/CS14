@@ -1,0 +1,20 @@
+Algorithm: NUTs 
+Weight of the tree: 28
+Edges in the tree: b c d f h Number of fragments in tree: 2
+Fragment 1 contains vertex Five and the following 3 edges: b c f 
+Fragment 2 contains vertex Four and the following 2 edges: d h 
+Algorithm: Kruskal's 
+Weight of the tree: 25
+Edges in the tree: b d f g h Number of fragments in tree: 2
+Fragment 1 contains vertex Five and the following 3 edges: b f g 
+Fragment 2 contains vertex Four and the following 2 edges: d h 
+Algorithm: Prim's 
+Weight of the tree: 25
+Edges in the tree: b d f g h Number of fragments in tree: 2
+Fragment 1 contains vertex Five and the following 3 edges: b f g 
+Fragment 2 contains vertex Four and the following 2 edges: d h 
+Algorithm: YAMA 
+Weight of the tree: 25
+Edges in the tree: b d f g h Number of fragments in tree: 2
+Fragment 1 contains vertex Five and the following 3 edges: b f g 
+Fragment 2 contains vertex Four and the following 2 edges: d h 
